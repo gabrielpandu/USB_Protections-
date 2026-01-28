@@ -1,0 +1,20 @@
+{
+    "admin_name": "Administrator",
+    "admin_email": "your_email@gmail.com",
+    "admin_phone": "+1234567890",
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": "587",
+    "email_username": "your_email@gmail.com",
+    "email_password": "your_app_password",
+    "enable_popup": true,
+    "enable_email": true,
+    "enable_web": true,
+    "web_port": 8080,
+    "auto_scan": true,
+    "auto_log": true,
+    "notify_on_insert": true,
+    "notify_on_remove": true,
+    "block_suspicious": false,
+    "whitelist_drives": [],
+    "blacklist_drives": []
+}
